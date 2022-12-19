@@ -40,6 +40,7 @@ documentation when migrating._
 | `join`           | `join`           | `join`              |
 | `indexBy`        | `keyBy`          | `indexBy`           |
 | `intersection`   | `intersection`   | `intersection`      |
+| `invert`         | `invert`         | `invertObj`         |
 | `last`           | `last`           | `last`              |
 | `map`            | `map`            | `map`               |
 | `mapKeys`        | `mapKeys`        | `-`                 |
